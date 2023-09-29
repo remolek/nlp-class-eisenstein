@@ -1,5 +1,0 @@
-pset2.ipynb
-*.preds
-gtnlplib/*.py
-text-answers.md
-
